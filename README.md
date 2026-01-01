@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on AI-ML Projects. I am an AI and Data Science student. Willing to collaborate  
+I’m an AI & Data Science engineering student passionate about building intelligent systems and solving real-world problems with clean, efficient code. I enjoy working on DSA, machine learning, web development, and backend systems. I document my learning journey through projects, notes, and experiments on this GitHub. 
 
 
 ## 🌐 Socials:
